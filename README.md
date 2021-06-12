@@ -6,7 +6,7 @@ You can contact with me through my email
       
 << Thank you >>
 
-<img src='https://github-readme-stats.vercel.app/api?username=AsiFmahmud10&&show_icons=true&title_color=fd5e53&icon_color=f9fcfb&text_color=daf7dc&bg_color=272343'>
+<img src='https://github-readme-stats.vercel.app/api?username=AsiFmahmud10&&show_icons=true&title_color=fd5e53&icon_color=f9fcfb&text_color=ffffff&bg_color=272343'>
 
 <!---
 AsiFmahmud10/AsiFmahmud10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
